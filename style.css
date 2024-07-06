@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+#card-box{
+    background-color: rgba(224, 204, 177, 0.805);
+}
+h2{
+    margin: 5px ;  
+}
+h3{
+    font-size: larger;
+}
+.main-container{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.txt{
+    width: 200px;
+    text-align: justify;
+    margin: 10px auto;
+}
+.card{
+    text-align: center;
+}
+.tittle{
+    text-align: center;
+    margin: 10px 0;
+    font-size: large;
+}
+
+.imags img{
+    max-width: 300px;
+    margin: 10px 0;
+}
